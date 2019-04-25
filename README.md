@@ -1,16 +1,15 @@
 # 競技プログラミング用ライブラリ
----
 
 - BellmanFord.cpp  
   ベルマンフォード法   
   
-- BinaryIndexedTree.cpp
+- BinaryIndexedTree.cpp  
   BIT
 
 - Combination  
   combination ( mod )
 
-- Dijkstra.cpp
+- Dijkstra.cpp  
   ダイクストラ法
   
 - LowerstCommonAncestor.cpp  
@@ -22,6 +21,7 @@
 - UnionFind.cpp  
   Union-Find 
 
-- WarshallFloyd.cpp
+- WarshallFloyd.cpp  
   ワーシャルフロイド
-
+  
+---
